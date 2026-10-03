@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+*.log
+
+backend/api/venv/
+backend/api/__pycache__/
+backend/api/app/__pycache__/
+
+.vscode/
+.DS_Store
+Thumbs.db
